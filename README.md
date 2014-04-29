@@ -1,4 +1,4 @@
-#Personal Portfolio
+#Personal Portfolio Using the Behance API
 
 This is a simple page showing portfolio from [Behance](http://www.behance.net/), powered by Behance API, HTML5 localStorage, and the following web tools:
 
