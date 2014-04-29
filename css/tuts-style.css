@@ -4,13 +4,14 @@
 
 body {
 	margin: 0;
+	padding: 11rem 0 0 0;
 }
 
 nav {
     position: fixed;
     top: 0;
     height: auto;
-    background: #2a3744;
+    background: #232f3b;
     padding: 30px 20px;
     width: 100%;
     box-sizing: border-box;
